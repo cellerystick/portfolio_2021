@@ -36,7 +36,8 @@ a:hover {
   padding-top: 18%;
   font-size: 18vh;
   color: transparent;
-  background: url(animated3.gif);
+  background: url(animated2.gif);
+  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 	color: transparent;
